@@ -22,4 +22,5 @@ root@8e0804174e43:/# telegraf --config /etc/telegraf/telegraf.conf
 
 
 ```
-
+# Output
+See the attached dashboard
